@@ -1,0 +1,150 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+
+
+a, a:hover { color: orange; }
+
+/* code for bookman font, */
+
+
+
+/* Navigation CSS */
+
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    background-color: orange;
+	
+}
+
+.nav-item:hover {
+	background-color: #e2e2e2;
+}
+
+/* End Nav CSS */
+
+
+
+.gray {
+	background-color: #e2e2e2;
+}
+
+.bg-danger	{
+	background-color: red !important;
+}
+
+
+
+
+/* Begin Accordion Styling */
+
+.accordion-button	{
+	background-color:#dbc3a3;
+	color: #6F4E37;
+}
+
+.accordion-button:not(.collapsed)	{
+	background-color: #6F4E37;
+	color: white;
+}
+
+.accordion-item	{
+	background-color: #fbf6cf;
+	color: #6F4E37;
+}
+
+.accordion-body	{
+	background-color: white;
+	color: #6F4E37;
+}
+
+/*End accordion styling */
+
+
+
+
+.tinos-regular {
+  font-family: "tinos", "bookman", system-ui, -apple-system, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tinos-bold {
+  font-family: "tinos", "bookman", system-ui, -apple-system, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.tinos-accent {
+  font-family: "tinos", "bookman", system-ui, -apple-system, serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+
+
+h1	{
+	font-family: "Tinos", "Bookman", system-ui, -apple-system, serif;
+  font-style: italic;
+  font-size: 4.4em;
+}
+
+
+h2	{
+	font-family: "Tinos", "Bookman", system-ui, -apple-system, serif;
+  font-style: italic;
+  font-size: 3em;
+}
+
+
+
+#eduhead	{
+	font-family: "Tinos", "Bookman", system-ui, -apple-system, serif;
+  font-style: italic;
+	vertical-align: baseline;
+	text-align: left;
+	object-fit: cover;
+  object-position: 15% 100%;
+
+}
+
+
+#legal, #skills	{
+	color:white;
+}
+
+#bbb	{
+	color: white;
+	text-decoration-line: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: yellow;
+}
+
+#collapseExample	{
+	color: black;
+
+}
+
+#footer	{
+	color: white;
+}
+
+#footer h2	{
+	font-size: 2em;
+}
+
+ul{
+	list-style-image: url('hex.png');
+}
+
+
+
+
+
+
+
+
+
+
